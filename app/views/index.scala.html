@@ -1,8 +1,13 @@
-@(message: String)
+@(books: List[Book])
 
-@main("Welcome to Bible Online") {
+@main(Messages("application.name")) {
 
-    @play20.welcome(message)
+    <d1 class="books">
+        @for(book <- books) {
+            <dt>@book.name</dt>
+            <dt>@book.synopsis</dt>
+        }
+    </d1>
 
 
 }
