@@ -1,0 +1,13 @@
+@(book: Book)
+
+@main(book.name) {
+
+    <d1 class="books">
+    @for(book <- books) {
+        <dt>@book.name</dt>
+        <dt>@book.synopsis</dt>
+    }
+    </d1>
+
+
+}
