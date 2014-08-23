@@ -1,0 +1,433 @@
+{
+	"book" : "Genesis",
+	"id" : "GEN",
+	"chapter" : 1,
+	"verse": [
+		{
+			"id" : 1,
+			"word": [
+			  {
+				"strongs": "H07225",
+				"text": "In the beginning"
+		          },
+			  {
+				"strongs": "H0430",
+				"text": "God"
+			  },
+		          {
+				"strongs": "H0853 H01254",
+				"text": "created"
+			  },
+	                  {
+				"strongs": "H08064",
+				"text": "the heaven"
+			  },
+			  {
+				"strongs": "H0853",
+				"text": "and"
+			  },
+					
+			]
+		},
+	] 	
+}
+<w s="H08064">the heaven</w>
+<w s="H0853">and</w>
+<w s="H0776">the earth</w>.
+<ve/><v id="2"/>
+<w s="H0776">And the earth</w>
+<w s="H01961" m="strongMorph:TH8804">was</w>
+<w s="H08414">without form</w>,
+<w s="H0922">and void</w>;
+<w s="H02822">and darkness</w>
+<add>was</add>
+<w s="H06440">upon the face</w>
+<w s="H08415">of the deep</w>.
+<w s="H07307">And the Spirit</w>
+<w s="H0430">of God</w>
+<w s="H07363" m="strongMorph:TH8764">moved</w>
+<w s="H05921">upon</w>
+<w s="H06440">the face</w>
+<w s="H04325">of the waters</w>.
+<ve/></p><p><v id="3"/>
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H01961" m="strongMorph:TH8799">Let there be</w>
+<w s="H0216">light</w>:
+<w s="H0216">and there was light</w>.
+<ve/><v id="4"/>
+<w s="H0430">And God</w>
+<w s="H0853 H07200" m="strongMorph:TH8799">saw</w>
+<w s="H0216">the light</w>,
+<w s="H03588">that</w>
+<add>it was</add>
+<w s="H02896">good</w>:
+<w s="H0430">and God</w>
+<w s="H0996 H0914" m="strongMorph:TH8686">divided</w>
+<w s="H0216">the light</w>
+<w s="H0996">from</w>
+<w s="H02822">the darkness</w>.<f caller="+">
+<ft>the light from…: Heb. between the light and between the darkness</ft></f>
+<ve/><v id="5"/>
+<w s="H0430">And God</w>
+<w s="H07121" m="strongMorph:TH8799">called</w>
+<w s="H0216">the light</w>
+<w s="H03117">Day</w>,
+<w s="H02822">and the darkness</w>
+<w s="H07121" m="strongMorph:TH8804">he called</w>
+<w s="H03915">Night</w>.
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H0259">were the first</w>
+<w s="H03117">day</w>.<f caller="+">
+<ft>And the evening…: Heb. And the evening was, and the morning was etc.</ft></f>
+<ve/></p><p><v id="6"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H07549">Let there be a firmament</w>
+<w s="H08432">in the midst</w>
+<w s="H04325">of the waters</w>,
+<w s="H0914" m="strongMorph:TH8688">and let it divide</w>
+<w s="H04325">the waters</w>
+<w s="H04325">from the waters</w>.<f caller="+">
+<ft>firmament: Heb. expansion</ft></f>
+<ve/><v id="7"/>
+<w s="H0430">And God</w>
+<w s="H06213" m="strongMorph:TH8799">made</w>
+<w s="H07549">the firmament</w>,
+<w s="H0914" m="strongMorph:TH8686">and divided</w>
+<w s="H04325">the waters</w>
+<w s="H0834">which</w>
+<add>were</add>
+<w s="H08478">under</w>
+<w s="H07549">the firmament</w>
+<w s="H04325">from the waters</w>
+<w s="H0834">which</w>
+<add>were</add>
+<w s="H05921">above</w>
+<w s="H07549">the firmament</w>:
+<w s="H03651">and it was so</w>.
+<ve/><v id="8"/>
+<w s="H0430">And God</w>
+<w s="H07121" m="strongMorph:TH8799">called</w>
+<w s="H07549">the firmament</w>
+<w s="H08064">Heaven</w>.
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H08145">were the second</w>
+<w s="H03117">day</w>.<f caller="+">
+<ft>And the evening…: Heb. And the evening was, and the morning was etc.</ft></f>
+<ve/></p><p><v id="9"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H04325">Let the waters</w>
+<w s="H08064">under the heaven</w>
+<w s="H06960" m="strongMorph:TH8735">be gathered together</w>
+<w s="H0413">unto</w>
+<w s="H0259">one</w>
+<w s="H04725">place</w>,
+<w s="H03004">and let the dry</w>
+<add>land</add>
+<w s="H07200" m="strongMorph:TH8735">appear</w>: and it was so.
+<ve/><v id="10"/>
+<w s="H0430">And God</w>
+<w s="H07121" m="strongMorph:TH8799">called</w>
+<w s="H03004">the dry</w>
+<add>land</add>
+<w s="H0776">Earth</w>;
+<w s="H04723">and the gathering together</w>
+<w s="H04325">of the waters</w>
+<w s="H07121" m="strongMorph:TH8804">called</w>
+<w s="H03220">he Seas</w>:
+<w s="H0430">and God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w> that
+<add>it was</add>
+<w s="H02896">good</w>.
+<ve/><v id="11"/>
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H0776">Let the earth</w>
+<w s="H01876" m="strongMorph:TH8686">bring forth</w>
+<w s="H01877">grass</w>,
+<w s="H06212">the herb</w>
+<w s="H02232" m="strongMorph:TH8688">yielding</w>
+<w s="H02233">seed</w>,
+<add>and</add>
+<w s="H06529">the fruit</w>
+<w s="H06086">tree</w>
+<w s="H06213" m="strongMorph:TH8802">yielding</w>
+<w s="H06529">fruit</w>
+<w s="H04327">after his kind</w>,
+<w s="H0834">whose</w>
+<w s="H02233">seed</w>
+<add>is</add>
+<w s="H0776">in itself, upon the earth</w>: and it was so.<f caller="+">
+<ft>grass: Heb. tender grass</ft></f>
+<ve/><v id="12"/>
+<w s="H0776">And the earth</w>
+<w s="H03318" m="strongMorph:TH8686">brought forth</w>
+<w s="H01877">grass</w>,
+<add>and</add>
+<w s="H06212">herb</w>
+<w s="H02232" m="strongMorph:TH8688">yielding</w>
+<w s="H02233">seed</w>
+<w s="H04327">after his kind</w>,
+<w s="H06086">and the tree</w>
+<w s="H06213" m="strongMorph:TH8802">yielding
+</w>
+<w s="H06529">fruit</w>,
+<w s="H02233">whose seed</w>
+<add>was</add>
+<w s="H04327">in itself, after his kind</w>:
+<w s="H0430">and God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w> that
+<add>it was</add>
+<w s="H02896">good</w>.
+<ve/><v id="13"/>
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H07992">were the third</w>
+<w s="H03117">day</w>.<f caller="+">
+<ft>And the evening…: Heb. And the evening was, and the morning was etc.</ft></f>
+<ve/></p><p><v id="14"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H03974">Let there be lights</w>
+<w s="H07549">in the firmament</w>
+<w s="H08064">of the heaven</w>
+<w s="H0914" m="strongMorph:TH8687">to divide</w>
+<w s="H03117">the day</w>
+<w s="H03915">from the night</w>;
+<w s="H0226">and let them be for signs</w>,
+<w s="H04150">and for seasons</w>,
+<w s="H03117">and for days</w>,
+<w s="H08141">and years</w>:<f caller="+">
+<ft>the day…: Heb. between the day and between the night</ft></f>
+<ve/><v id="15"/>
+<w s="H03974">And let them be for lights</w>
+<w s="H07549">in the firmament</w>
+<w s="H08064">of the heaven</w>
+<w s="H0215" m="strongMorph:TH8687">to give light</w>
+<w s="H0776">upon the earth</w>: and it was so.
+<ve/><v id="16"/>
+<w s="H0430">And God</w>
+<w s="H06213" m="strongMorph:TH8799">made</w>
+<w s="H08147">two</w>
+<w s="H01419">great</w>
+<w s="H03974">lights</w>;
+<w s="H01419">the greater</w>
+<w s="H03974">light</w>
+<w s="H04475">to rule</w>
+<w s="H03117">the day</w>,
+<w s="H06996">and the lesser</w>
+<w s="H03974">light</w>
+<w s="H04475">to rule</w>
+<w s="H03915">the night</w>:
+<add>he made</add>
+<w s="H03556">the stars</w> also.<f caller="+">
+<ft>to rule the day…: Heb. for the rule of the day, etc.</ft></f>
+<ve/><v id="17"/>
+<w s="H0430">And God</w>
+<w s="H05414" m="strongMorph:TH8799">set</w>
+<w s="H07549">them in the firmament</w>
+<w s="H08064">of the heaven</w>
+<w s="H0215" m="strongMorph:TH8687">to give light</w>
+<w s="H0776">upon the earth</w>,
+<ve/><v id="18"/>
+<w s="H04910" m="strongMorph:TH8800">And to rule</w>
+<w s="H03117">over the day</w>
+<w s="H03915">and over the night</w>,
+<w s="H0914" m="strongMorph:TH8687">and to divide</w>
+<w s="H0216">the light</w>
+<w s="H02822">from the darkness</w>:
+<w s="H0430">and God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w> that
+<add>it was</add>
+<w s="H02896">good</w>.
+<ve/><v id="19"/>
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H07243">were the fourth</w>
+<w s="H03117">day</w>.<f caller="+">
+<ft>And the evening…: Heb. And the evening was, and the morning was etc.</ft></f>
+<ve/></p><p><v id="20"/>
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H04325">Let the waters</w>
+<w s="H08317" m="strongMorph:TH8799">bring forth abundantly</w>
+<w s="H08318">the moving creature</w>
+<w s="H05315">that hath</w>
+<w s="H02416">life</w>,
+<w s="H05775">and fowl</w>
+<add>that</add>
+<w s="H05774" m="strongMorph:TH8787">may fly</w>
+<w s="H05921">above</w>
+<w s="H0776">the earth</w>
+<w s="H06440">in the open</w>
+<w s="H07549">firmament</w>
+<w s="H08064">of heaven</w>.<f caller="+">
+<ft>moving: or, creeping</ft></f><f caller="+">
+<ft>life: Heb. soul</ft></f><f caller="+">
+<ft>fowl…: Heb. let fowl fly</ft></f><f caller="+">
+<ft>open…: Heb. face of the firmament of heaven</ft></f>
+<ve/><v id="21"/>
+<w s="H0430">And God</w>
+<w s="H01254" m="strongMorph:TH8799">created</w>
+<w s="H01419">great</w>
+<w s="H08577">whales</w>,
+<w s="H02416">and every living</w>
+<w s="H05315">creature</w>
+<w s="H07430" m="strongMorph:TH8802">that moveth</w>,
+<w s="H04325">which the waters</w>
+<w s="H08317" m="strongMorph:TH8804">brought forth abundantly</w>,
+<w s="H04327">after their kind</w>,
+<w s="H03671">and every winged</w>
+<w s="H05775">fowl</w>
+<w s="H04327">after his kind</w>:
+<w s="H0430">and God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w> that
+<add>it was</add>
+<w s="H02896">good</w>.
+<ve/><v id="22"/>
+<w s="H0430">And God</w>
+<w s="H01288" m="strongMorph:TH8762">blessed</w>
+<w s="H0559" m="strongMorph:TH8800">them, saying</w>,
+<w s="H06509" m="strongMorph:TH8798">Be fruitful</w>,
+<w s="H07235" m="strongMorph:TH8798">and multiply</w>,
+<w s="H04390" m="strongMorph:TH8798">and fill</w>
+<w s="H04325">the waters</w>
+<w s="H03220">in the seas</w>,
+<w s="H05775">and let fowl</w>
+<w s="H07235" m="strongMorph:TH8799">multiply
+</w>
+<w s="H0776">in the earth</w>.
+<ve/><v id="23"/>
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H02549">were the fifth</w>
+<w s="H03117">day</w>.<f caller="+">
+<ft>And the evening…: Heb. And the evening was, and the morning was etc.</ft></f>
+<ve/></p><p><v id="24"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H0776">Let the earth</w>
+<w s="H03318" m="strongMorph:TH8686">bring forth</w>
+<w s="H02416">the living</w>
+<w s="H05315">creature</w>
+<w s="H04327">after his kind</w>,
+<w s="H0929">cattle</w>,
+<w s="H07431">and creeping thing</w>,
+<w s="H02416">and beast</w>
+<w s="H0776">of the earth</w>
+<w s="H04327">after his kind</w>: and it was so.
+<ve/><v id="25"/>
+<w s="H0430">And God</w>
+<w s="H06213" m="strongMorph:TH8799">made</w>
+<w s="H02416">the beast</w>
+<w s="H0776">of the earth</w>
+<w s="H04327">after his kind</w>,
+<w s="H0929">and cattle</w>
+<w s="H04327">after their kind</w>,
+<w s="H07431">and every thing that creepeth</w>
+<w s="H0127">upon the earth</w>
+<w s="H04327">after his kind</w>:
+<w s="H0430">and God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w> that
+<add>it was</add>
+<w s="H02896">good</w>.
+<ve/></p><p><v id="26"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H06213" m="strongMorph:TH8799">Let us make</w>
+<w s="H0120">man</w>
+<w s="H06754">in our image</w>,
+<w s="H01823">after our likeness</w>:
+<w s="H07287" m="strongMorph:TH8799">and let them have dominion</w>
+<w s="H01710">over the fish</w>
+<w s="H03220">of the sea</w>,
+<w s="H05775">and over the fowl</w>
+<w s="H08064">of the air</w>,
+<w s="H0929">and over the cattle</w>,
+<w s="H0776">and over all the earth</w>,
+<w s="H07431">and over every creeping thing</w>
+<w s="H07430" m="strongMorph:TH8802">that creepeth</w>
+<w s="H0776">upon the earth</w>.
+<ve/><v id="27"/>
+<w s="H0430">So God</w>
+<w s="H01254" m="strongMorph:TH8799">created</w>
+<w s="H0120">man</w> in his
+<add>own</add>
+<w s="H06754">image</w>,
+<w s="H06754">in the image</w>
+<w s="H0430">of God</w>
+<w s="H01254" m="strongMorph:TH8804">created</w>
+<w s="H02145">he him; male</w>
+<w s="H05347">and female</w>
+<w s="H01254" m="strongMorph:TH8804">created</w> he them.
+<ve/><v id="28"/>
+<w s="H0430">And God</w>
+<w s="H01288" m="strongMorph:TH8762">blessed</w>
+<w s="H0430">them, and God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>
+<w s="H06509" m="strongMorph:TH8798">unto them, Be fruitful</w>,
+<w s="H07235" m="strongMorph:TH8798">and multiply</w>,
+<w s="H04390" m="strongMorph:TH8798">and replenish</w>
+<w s="H0776">the earth</w>,
+<w s="H03533" m="strongMorph:TH8798">and subdue it</w>:
+<w s="H07287" m="strongMorph:TH8798">and have dominion</w>
+<w s="H01710">over the fish</w>
+<w s="H03220">of the sea</w>,
+<w s="H05775">and over the fowl</w>
+<w s="H08064">of the air</w>,
+<w s="H02416">and over every living thing</w>
+<w s="H07430" m="strongMorph:TH8802">that moveth</w>
+<w s="H0776">upon the earth</w>.<f caller="+">
+<ft>moveth: Heb. creepeth</ft></f>
+<ve/></p><p><v id="29"/>¶
+<w s="H0430">And God</w>
+<w s="H0559" m="strongMorph:TH8799">said</w>,
+<w s="H02009">Behold</w>,
+<w s="H05414" m="strongMorph:TH8804">I have given</w>
+<w s="H06212">you every herb</w>
+<w s="H02232" m="strongMorph:TH8802">bearing
+</w>
+<w s="H02233">seed</w>, which
+<add>is</add>
+<w s="H06440">upon the face</w>
+<w s="H0776">of all the earth</w>,
+<w s="H06086">and every tree</w>, in the which
+<add>is</add>
+<w s="H06529">the fruit</w>
+<w s="H06086">of a tree</w>
+<w s="H02232" m="strongMorph:TH8802">yielding</w>
+<w s="H02233">seed</w>;
+<w s="H01961" m="strongMorph:TH8799">to you it shall be</w>
+<w s="H0402">for meat</w>.<f caller="+">
+<ft>bearing…: Heb. seeding seed</ft></f><f caller="+">
+<ft>yielding…: Heb. seeding seed</ft></f>
+<ve/><v id="30"/>
+<w s="H02416">And to every beast</w>
+<w s="H0776">of the earth</w>,
+<w s="H05775">and to every fowl</w>
+<w s="H08064">of the air</w>,
+<w s="H07430" m="strongMorph:TH8802">and to every thing that creepeth</w>
+<w s="H0776">upon the earth</w>, wherein
+<add>there is</add>
+<w s="H05315 H02416">life</w>,
+<add>I have given</add>
+<w s="H03418">every green</w>
+<w s="H06212">herb</w>
+<w s="H0402">for meat</w>: and it was so.<f caller="+">
+<ft>life: Heb. a living soul</ft></f>
+<ve/><v id="31"/>
+<w s="H0430">And God</w>
+<w s="H07200" m="strongMorph:TH8799">saw</w>
+<w s="H0834">every thing that</w>
+<w s="H06213" m="strongMorph:TH8804">he had made</w>, and, behold,
+<add>it was</add>
+<w s="H03966">very</w>
+<w s="H02896">good</w>.
+<w s="H06153">And the evening</w>
+<w s="H01242">and the morning</w>
+<w s="H08345">were the sixth</w>
+<w s="H03117">day</w>.<f caller="+">
